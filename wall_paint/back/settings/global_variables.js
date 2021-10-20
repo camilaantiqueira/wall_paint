@@ -1,0 +1,9 @@
+global.WINDOWS_HEIGHT = 1.2;
+global.WINDOWS_WIDTH = 2;
+global.DOOR_HEIGHT = 1.9;
+global.DOOR_WIDTH = 0.8;
+global.PAINT_VOLUME_1 = 0.5;
+global.PAINT_VOLUME_2 = 2.5;
+global.PAINT_VOLUME_3 = 3.6;
+global.PAINT_VOLUME_4 = 18;
+global.METERS_PER_LITER = 5;

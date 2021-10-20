@@ -1,0 +1,47 @@
+label {
+    color:rgb(212, 106, 88);
+    font-weight: bolder;
+    font-size: medium;
+}
+
+input {
+    width: 10%;
+    padding: .5em .25em;
+    margin: 0 3% 1em;
+    font-size: 1.2em;
+    outline: none;
+    border-radius: 15px;
+    border-color: rgb(212, 106, 88);
+    border: 5px solid rgb(212, 106, 88);
+}
+
+
+.container {
+    display: block;
+}
+
+.wall-form { 
+    display: block;
+    align-content: space-around;
+}
+
+.windows-doors {
+    width: 8%;
+}
+
+.wall-number {
+    text-align: left;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: medium;
+    width: 7%;
+    background-color: rgb(212, 106, 88);
+    border: 5px solid rgb(212, 106, 88);
+    margin-top: 10px;
+}
+ .buttonInput {
+     width: 8%;
+     height: 8%;
+     border-radius: 15px;
+ }
